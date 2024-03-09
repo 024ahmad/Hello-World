@@ -1,4 +1,4 @@
-// Simple Mehod of Print Hello World
+// Simple Method of Print Hello World
 
 console.log ("Hello World");
 
